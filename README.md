@@ -1,10 +1,23 @@
-# Hey, I’m Shivansh Singh! 👋  
-Aspiring Data Scientist | BTech IT (AIML) | ML & NLP Enthusiast  
+# Hi, I'm Shivansh 👋
 
-- 🔍 Currently in my 8th semester at Maharaja Agrasen Institute of Technology  
-- 💻 Skilled in: Python, TensorFlow, Scikit-Learn, MySQL, AWS, Selenium  
-- 🌱 Exploring: NLP and advanced ML techniques  
-- 📫 Reach me: [shivansh.s1802@gmail.com](mailto:shivansh.s1802@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shxvansh/)  
-- ⚡ Fun fact: I’ve built web scrapers and ML models for real-world problems like optimizing dealership staffing!  
+AI/ML Engineer focused on building production-ready Machine Learning and Generative AI systems.
 
-Check out my pinned projects below!  
+### What I work on
+- End-to-end ML & GenAI pipelines (Python, FastAPI, AWS)
+- LLM systems (RAG, LoRA fine-tuning, semantic search)
+- OCR & computer vision automation for document-heavy workflows
+- Deploying reliable AI systems beyond notebooks
+
+### Featured Projects
+→ AI-Powered Resume Optimization System (RAG + LoRA)  
+→ Fine-tuned LLM using PEFT, built section-aware RAG with ChromaDB, added guardrails to prevent hallucinations
+
+📊 Manpower Scoring System (ML Classification)  
+→ Trained and evaluated RF, XGBoost, and NN models on structured workforce data
+
+### Tech Stack
+Python · PyTorch · Hugging Face · FastAPI · AWS · Vector Databases · SQL · Git
+
+📫 Reach me:  
+- LinkedIn: https://www.linkedin.com/in/shxvansh/ 
+- Email: shivansh.s1802@gmail.com
